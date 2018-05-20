@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css?family=Kavivanar');
+@import url('https://fonts.googleapis.com/css?family=Modern+Antiqua');
+
+h1 {
+  text-transform: uppercase;
+}
+
+.font-kavivanar {
+  font-family: 'Kavivanar';
+}
+
+.font-modern-antiqua {
+  font-family: 'Modern Antiqua';
+}
